@@ -1,0 +1,21 @@
+.container{
+    height:100vh;
+    background-color:cyan;
+  
+}
+
+.header{
+    height:10%;
+    background-color:darkcyan;
+}
+.mainbody{
+    display:flex;
+}
+
+.manu{
+    background-color:darkorange;
+}
+.right{
+    background-color:darkorchid;
+   
+}
